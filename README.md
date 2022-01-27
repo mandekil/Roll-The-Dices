@@ -2,7 +2,7 @@
 Roll the two dices by refreshing the page. It will show the random dice number and declare who's the winner. This is also one of 
 [Udemy course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) challenges I solve.
 
-## Demo
+## Examples
 
 ![Screenshot (237)](https://user-images.githubusercontent.com/96814524/151344026-3bb9ef12-c9fe-4362-8e61-e44db32b8918.png)
 
